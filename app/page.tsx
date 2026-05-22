@@ -43,7 +43,7 @@ export default async function Home() {
 
             <Link
               href="/countries"
-              className="group mt-10 inline-flex items-center gap-2 rounded-full bg-amber-400 px-8 py-4 text-black"
+              className="group mt-10 inline-flex items-center gap-2 rounded-full border border-amber-400 hover:bg-amber-400 px-8 py-4 text-white hover:text-black transition duration-300"
             >
               <span>Explore Countries</span>
 
