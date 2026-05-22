@@ -4,25 +4,25 @@ World Explorer is a modern country exploration web application built with Next.j
 
 # Preview
 
-## Home Page
+Home Page
 
 <p align="center">
   <img src="/public/home-screenshot.JPG" alt="Home Page Screenshot" width="850" />
 </p>
 
-## Countries Page
+Countries Page
 
 <p align="center">
   <img src="/public/explore-screenshot.JPG" alt="Countries Page Screenshot" width="850" />
 </p>
 
-## Country Details Page
+Country Details Page
 
 <p align="center">
   <img src="/public/details-screenshot.JPG" alt="Country Details Screenshot" width="850" />
 </p>
 
-## Search Page
+Search Page
 
 <p align="center">
   <img src="/public/search-screenshot.JPG" alt="Search Page Screenshot" width="850" />
@@ -64,25 +64,25 @@ This project uses the REST Countries API:
 
 # Getting Started
 
-## Clone the Repository
+Clone the Repository
 
 ```bash
 git clone github.com/fereshtehazizi/next-explorer
 ```
 
-## Navigate to the Project Folder
+Navigate to the Project Folder
 
 ```bash
 cd world-explorer
 ```
 
-## Install Dependencies
+Install Dependencies
 
 ```bash
 npm install
 ```
 
-## Run the Development Server
+Run the Development Server
 
 ```bash
 npm run dev
