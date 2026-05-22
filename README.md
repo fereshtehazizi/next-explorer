@@ -10,23 +10,17 @@ World Explorer is a modern country exploration web application built with Next.j
   <img src="/public/home-screenshot.JPG" alt="Home Page Screenshot" width="850" />
 </p>
 
----
-
 ## Countries Page
 
 <p align="center">
   <img src="/public/explore-screenshot.JPG" alt="Countries Page Screenshot" width="850" />
 </p>
 
----
-
 ## Country Details Page
 
 <p align="center">
   <img src="/public/details-screenshot.JPG" alt="Country Details Screenshot" width="850" />
 </p>
-
----
 
 ## Search Page
 
