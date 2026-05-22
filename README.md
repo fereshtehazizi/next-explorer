@@ -15,9 +15,9 @@ World Explorer is a Next.js project that allows users to explore countries aroun
 - Dynamic rendering
 - Search functionality
 
-## API Used
+### API Used
 
-REST Countries API
+[REST Countries API](https://restcountries.com/v3.1/all)
 
 ## Run Locally
 
