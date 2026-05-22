@@ -30,7 +30,7 @@ export default function BlogPage() {
               </p>
 
               <div className="mt-8 flex flex-wrap gap-4">
-                <Link href="/countries" className="group flex items-center gap-2 rounded-full bg-amber-400 px-6 py-3 text-black">
+                <Link href="/countries" className="group flex items-center gap-2 rounded-full border border-amber-400 hover:bg-amber-400 px-6 py-3 text-white hover:text-black transition duration-300">
                   Explore Countries
 
                   <ArrowRight
