@@ -2,44 +2,36 @@
 
 World Explorer is a modern country exploration web application built with Next.js. It allows users to discover countries around the world, explore detailed information about each country, and search through real-time country data using the REST Countries API.
 
-# ✨ Preview
+# Preview
 
-## 🏠 Home Page
-
-> Add your Home Page screenshot here
+## Home Page
 
 <p align="center">
-  <img src="./screenshots/home-page.png" alt="Home Page Screenshot" width="850" />
+  <img src="/public/home-screenshot.JPG" alt="Home Page Screenshot" width="850" />
 </p>
 
 ---
 
-## 🌍 Countries Page
-
-> Add your Countries Page screenshot here
+## Countries Page
 
 <p align="center">
-  <img src="./screenshots/countries-page.png" alt="Countries Page Screenshot" width="850" />
+  <img src="/public/explore-screenshot.JPG" alt="Countries Page Screenshot" width="850" />
 </p>
 
 ---
 
-## 📄 Country Details Page
-
-> Add your Country Details Page screenshot here
+## Country Details Page
 
 <p align="center">
-  <img src="./screenshots/country-details-page.png" alt="Country Details Screenshot" width="850" />
+  <img src="/public/details-screenshot.JPG" alt="Country Details Screenshot" width="850" />
 </p>
 
 ---
 
-## 🔎 Search Page
-
-> Add your Search Page screenshot here
+## Search Page
 
 <p align="center">
-  <img src="./screenshots/search-page.png" alt="Search Page Screenshot" width="850" />
+  <img src="/public/search-screenshot.JPG" alt="Search Page Screenshot" width="850" />
 </p>
 
 # Features
